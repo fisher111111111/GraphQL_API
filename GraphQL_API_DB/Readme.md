@@ -40,12 +40,12 @@ python app.py
 
 Для потех да забав молодецких с премудростью в Postman совершите следующие деяния:
 1. создать в Postman новый запрос формата GraphQL
-![Моя картинка](https://github.com/fisher111111111/GraphQL_API/blob/main/GraphQL_API/Postman1.png)
+![Моя картинка](https://github.com/fisher111111111/GraphQL_API/blob/main/GraphQL_API_DB/Postman1.png)
 2. В созданном запросе в строку "Enter URL" вставьте http://127.0.0.1:5000/graphql , после чего должны подгрузиться запросы
-![Моя картинка](https://github.com/fisher111111111/GraphQL_API/blob/main/GraphQL_API/Postman2.png)
+![Моя картинка](https://github.com/fisher111111111/GraphQL_API/blob/main/GraphQL_API_DB/Postman2.png)
 3. Подключите Амбар Знаний используя DBeaver путем создания соединения и выбрав БД SQLite
-![Моя картинка](https://github.com/fisher111111111/GraphQL_API/blob/main/GraphQL_API/Postman2.png))
-![Моя картинка](https://github.com/fisher111111111/GraphQL_API/edit/main/GraphQL_API_DB/Readme.md)
+![Моя картинка](https://github.com/fisher111111111/GraphQL_API/blob/main/GraphQL_API_DB/DBeaver_3.png))
+![Моя картинка](https://github.com/fisher111111111/GraphQL_API/blob/main/GraphQL_API_DB/DBeaver_4.png)
 
 *Не велите казнить бояре ежели что не так!*
 
@@ -54,6 +54,7 @@ python app.py
 ### Контакты
 
 Telegram: [@Rybalchenko_Alexei]()
+
 
 
 
