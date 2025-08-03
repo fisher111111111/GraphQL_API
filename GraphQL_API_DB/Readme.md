@@ -12,7 +12,9 @@
 Состоит премудрость из змеиной клинописью сотворенных писания самой премудрости, описание воспрошаний да менячитайки маркдауном писанной
 
 ├── app.py          
-├── schema.py      
+├── schema.py 
+├── models.py 
+├── users.db
 ├── README.md                
    
 
@@ -43,7 +45,7 @@ python app.py
 ![Моя картинка](https://github.com/fisher111111111/GraphQL_API/blob/main/GraphQL_API_DB/Postman1.png)
 2. В созданном запросе в строку "Enter URL" вставьте http://127.0.0.1:5000/graphql , после чего должны подгрузиться запросы
 ![Моя картинка](https://github.com/fisher111111111/GraphQL_API/blob/main/GraphQL_API_DB/Postman2.png)
-3. Подключите Амбар Знаний используя DBeaver путем создания соединения и выбрав БД SQLite
+3. Подключите Амбар Знаний используя DBeaver выбрав вид БД SQLite и создайте соединение
 ![Моя картинка](https://github.com/fisher111111111/GraphQL_API/blob/main/GraphQL_API_DB/DBeaver_3.png))
 ![Моя картинка](https://github.com/fisher111111111/GraphQL_API/blob/main/GraphQL_API_DB/DBeaver_4.png)
 
@@ -54,6 +56,7 @@ python app.py
 ### Контакты
 
 Telegram: [@Rybalchenko_Alexei]()
+
 
 
 
